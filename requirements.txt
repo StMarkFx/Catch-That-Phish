@@ -1,0 +1,9 @@
+imaplib2 
+secure-smtplib
+python-dotenv
+flask
+flask-cors
+scikit-learn
+joblib
+gunicorn
+APScheduler
